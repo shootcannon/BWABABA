@@ -1,5 +1,6 @@
 // I Know java will fuck me up
 // :D
+// It's been under 4 until 5 hour to learn this fking shit
 
 import java.util.ArrayList;
 import java.util.Scanner;
